@@ -1,6 +1,5 @@
 import pyshorteners
 from tkinter import *
-from tkinter import messagebox
 
 win = Tk()
 win.geometry("400x300")
