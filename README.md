@@ -1,5 +1,5 @@
 # URL_Shortner
-I have use two libraries ;
+I have used two libraries ;
 
 i) tkinter for the GUI
 
